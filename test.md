@@ -13,10 +13,12 @@ Some other text
 Table
 
 1    | 2   | 3
-----<|-----|>---
+-----|-----|----
 aaa  | bbb | ccc
 
-a code
+TODO: test the alignment in the cells.
+
+A code
 
 ```rust
 println!("Hello, world!");
